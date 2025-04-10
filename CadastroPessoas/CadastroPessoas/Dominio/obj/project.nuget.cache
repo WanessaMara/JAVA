@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJ6FRzlXrxjXCkrvfQRCpgLRUevAH7OE/kVuKfpHVs/mR7/z0ZIxDhGpKmxNUZrT0XX9fgxWFvJDj0mK/oPc8g==",
+  "success": true,
+  "projectFilePath": "/home/e06163755/Documentos/Projetos/CadastroPessoas/CadastroPessoas/Dominio/Dominio.csproj",
+  "expectedPackageFiles": [
+    "/home/e06163755/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
